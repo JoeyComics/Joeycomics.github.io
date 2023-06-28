@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -31,14 +30,14 @@
 	  }
     body {
 text-align:center;
-      color:#89B4FA;
-      background-color:#1E1E2E;
+      color:#FFFFFF;
+      background-color:#FFFFFF;
 	  font-family: tex
     }
-    a  { color:#89DCEB; }
-    a:visited { color:#CBA6F7; }
-    a:hover { color:#F9E2AF; }
-    a:active { color:#F38BA8; }
+    a  { color:#FFFFFF; }
+    a:visited { color:#FFFFFF; }
+    a:hover { color:#FFFFFF; }
+    a:active { color:#FFFFFF; }
 	
 	.row {
   display: flex;
